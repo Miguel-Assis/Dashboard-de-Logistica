@@ -4,6 +4,8 @@
 
 Este dashboard foi desenvolvido para **monitorar e otimizar o desempenho logístico** de uma empresa que opera com múltiplas transportadoras e centros de distribuição. A visualização dos dados permite uma **tomada de decisão rápida**, baseada em **indicadores-chave (KPIs)** como **OTIF**, **entregas no prazo**, e **faturamento por cliente**.
 
+🔗 **Acesse o Dashboard no Power BI:**  
+> [Clique aqui para visualizar](https://app.powerbi.com/links/EqBAevfc5w?ctid=da49a844-e2e3-40af-86a6-c3819d704f49&pbi_source=linkShare)
 ---
 
 ##  Objetivos do Dashboard
